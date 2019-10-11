@@ -1,0 +1,26 @@
+node_modules
+
+.DS_Store
+
+*.gzip
+*.zip
+*.tgz
+
+*.log
+
+dist
+
+*.bak
+
+package-*.json
+yarn-*.json
+yarn.lock
+
+es
+
+# bisheng生成的结果文件。
+_site
+
+.idea
+packages/react-imap/demo-web/
+packages/react-imap/docs/
